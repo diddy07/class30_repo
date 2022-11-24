@@ -7,5 +7,7 @@ do
 echo $a
 done
 echo "for loop is done"
+echo "we are done with this"
+echo"this is diddy"
 
 
